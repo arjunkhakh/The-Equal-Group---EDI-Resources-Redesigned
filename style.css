@@ -77,14 +77,8 @@ body {
 }
 
 
-.box{
-    background-color:#333;
-    padding: 2rem;
-    border-radius:10px;
-    color:#fff;
-    font-size:120%;
-    display: -ms-inline-grid;
-    margin: 4%;
+#box:hover{
+    background-color: #ADF5FF;
 }
   
 #ediTitle {
